@@ -293,11 +293,12 @@ h1,h2,h3,h4,h5{
         padding-right: 0px;
     }
     .section50 input[type="text"]{
-        width: 50%;
+        width: 60%;
         padding: 8px 30px;
+        font-size: 14px;
     }
     .section50 input[type="submit"]{
-        padding: 8px 22px;  
+        padding: 8px 20px; 
     }
     .div33{
         padding: 25px 20px;
